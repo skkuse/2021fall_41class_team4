@@ -31,7 +31,7 @@ Team member Jungin Lee
 
 ## Document
 
-[Document folder](https://github.com/pgj123/SE-2021-2-Team4/tree/main/docs)
+[Document folder](https://github.com/skkuse/2021fall_41class_team4/tree/main/docs)
 
 ## Setup
 
