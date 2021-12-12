@@ -26,6 +26,9 @@ Team member Jungin Lee
 
 [VRChat World Link](https://vrch.at/noah-crapgreet-769a3)
 
+## Project Presentation Link
+[Presentation Link](https://youtu.be/YJl0kujduHw)
+
 ## Document
 
 [Document folder](https://github.com/pgj123/SE-2021-2-Team4/tree/main/docs)
