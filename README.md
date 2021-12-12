@@ -9,11 +9,17 @@ This repository is SWE3002(introduction to software engineering) 2021 fall team 
 ## Team Member
 
 Team leader Gwanjong Park
+
 Team member Seungji Lee
+
 Team member Daeun Lim
+
 Team member Soyoung Park
+
 Team member Hojin Jeon
+
 Team member Jiho Jang
+
 Team member Jungin Lee
 
 ## VRChat WORLD Link
